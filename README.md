@@ -3,17 +3,17 @@
 1. Install
 
     a. Nodejs
-```
+```sh
 https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi
 ```
 
-    a. Yarn
-```
+    b. Yarn
+```sh
 npm install --global yarn
 ```
 
-    a. Vue
-```
+    c. Vue
+```sh
 npm install -g @vue/cli
 # OR
 yarn global add @vue/cli
