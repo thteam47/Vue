@@ -3,12 +3,12 @@
 1. Install
 
     a. Nodejs
-```sh
+```bash 
 https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi
 ```
 
     b. Yarn
-```sh
+```bash 
 npm install --global yarn
 ```
 
