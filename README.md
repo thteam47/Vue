@@ -7,12 +7,12 @@
 https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi
 ```
 
-    b. Yarn
+    a. Yarn
 ```
 npm install --global yarn
 ```
 
-    c. Vue
+    a. Vue
 ```
 npm install -g @vue/cli
 # OR
