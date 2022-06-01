@@ -7,4 +7,7 @@
     - Vue: `npm install -g @vue/cli` or `yarn global add @vue/cli`
 
 2. Create project
+    - Create one project: `vue create <name project>`
 
+3. Setup
+    - Run: `yarn serve` or `npm run serve`
