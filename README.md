@@ -11,8 +11,4 @@
 
 3. Setup
     - Run: `yarn serve` or `npm run serve`
-    - Setting: File > Preferences > Settings
-    ```"eslint.workingDirectories": [
-        {"mode": "auto"}
-    ],
-    ```
+    - Setting: File > Preferences > Settings: `"eslint.workingDirectories": [{"mode": "auto"}],`
