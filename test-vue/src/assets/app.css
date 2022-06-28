@@ -2,13 +2,14 @@
   height: 32px;
   width: 220px;
   position: relative;
-  background: #424853 !important;
+  background-color: #424853 !important;
   border-radius: 16px !important;
   font-family: SourceSansPro-SemiBold;
   font-size: 14px;
-  color: #ffffff;
   text-align: center;
   font-weight: 600;
+  color: #ffffff !important;
+
 }
 
 v-dialog .dialog-card {

@@ -19,11 +19,10 @@
           <div class="dialog-all">
             <v-dialog v-model="dialog" width="403px" height="188px" left="100px" class="dialog-nav">
               <template v-slot:activator="{ on }">
-                <v-btn v-on="on">
+                <v-btn v-on="on" color="#424853" class="white--text">
                   Try Admin Portal v2
                 </v-btn>
               </template>
-
 
 
               <v-card class="dialog-card">
@@ -45,7 +44,7 @@
                       <v-checkbox v-model="checkbox" :label="`Don't show this message again!`"></v-checkbox>
                     </div>
                   </v-spacer>
-                  <v-btn color="primary" text @click="dialog = false">
+                  <v-btn @click="dialog = false">
                     I've got it
                   </v-btn>
                 </v-card-actions>
